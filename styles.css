@@ -210,8 +210,6 @@
   flex-direction: row;
   flex-wrap: nowrap;
   justify-content: flex-start;
-  align-items: center;
-  align-content: center;
 }
 
 #es-neo.es-neo .es-benefits__txt {
